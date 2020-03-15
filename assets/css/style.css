@@ -12,7 +12,11 @@ h5,
 h6 {
   color: #1e1e1e;
 }
-
+.about-info{
+  position: relative;
+  margin: 30px;
+  padding: 20px;
+}
 a {
   color: #1e1e1e;
   transition: all 0.5s ease-in-out;
